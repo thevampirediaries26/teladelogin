@@ -56,13 +56,13 @@
                 <button type="submit" class="submit-btn">Cadastrar</button>
                 
                 <div class="login-link">
-                    Já tem uma conta? <a class="fcc-btn" href="teladelogin.index.html">Faça login!</a>  
+                    Já tem uma conta? <a class="fcc-btn" href="teladelogin.index.php">Faça login!</a>  
                 </div>
             </form>
         </div>
         
         <div class="image-container">
-            <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/img3.webp">
+            <img src="img3.webp">
         </div>
     </div>
 </body>

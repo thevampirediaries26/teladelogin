@@ -31,7 +31,7 @@
                 </button>
                 
                 <div class="back-to-login">
-                    <a href="#"><i class="fas fa-arrow-left"></i> Voltar para o login</a>
+                    <a href="#"><i class="teladelogin.index.php"></i> Voltar para o login</a>
                 </div>
             </form>
             
@@ -42,7 +42,7 @@
         </div>
         
         <div class="recovery-image">
-            <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/img3.webp" alt="Imagem de recuperação de senha">
+            <img src="img3.webp" alt="Imagem de recuperação de senha">
         </div>
     </div>
 </body>
